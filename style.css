@@ -1,0 +1,2357 @@
+.https-www-apple-com {
+  display: flex;
+  flex-direction: column;
+  min-width: 320px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.https-www-apple-com .body-paints {
+  position: absolute;
+  width: 1920px;
+  height: 5553px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgb(29, 29, 31) 0.79%, rgb(255, 255, 255) 0.79%);
+}
+
+.https-www-apple-com .main {
+  display: flex;
+  flex-direction: column;
+  max-width: 2560px;
+  width: 1920px;
+  align-items: center;
+  padding: 44px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .section {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 2112px;
+  z-index: 2;
+  background-color: var(--wwwapplecomnero);
+  border-bottom-width: 12px;
+  border-bottom-style: solid;
+  border-color: var(--wwwapplecomnero);
+}
+
+.https-www-apple-com .div-margin {
+  position: absolute;
+  width: 1920px;
+  height: 692px;
+  top: 1364px;
+  left: 0;
+}
+
+.https-www-apple-com .div {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 748px;
+  align-items: flex-start;
+  padding: 0px 0px 12px;
+  position: relative;
+  background-color: var(--wwwapplecomnero);
+}
+
+.https-www-apple-com .div-module-content {
+  display: flex;
+  flex-direction: column;
+  height: 736px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: var(--wwwapplecomwhite-lilac);
+}
+
+.https-www-apple-com .div-unit-wrapper {
+  height: 736px;
+  padding: 44px 0px 495.36px;
+  background-color: var(--wwwapplecomwhite-lilac);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .div-unit-image {
+  background-image: url(./img/figure.png);
+  position: absolute;
+  width: 1920px;
+  height: 736px;
+  top: 0;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.https-www-apple-com .link {
+  position: absolute;
+  width: 1920px;
+  height: 692px;
+  top: 44px;
+  left: 0;
+}
+
+.https-www-apple-com .div-unit-copy {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 196.64px;
+}
+
+.https-www-apple-com .heading-iphone {
+  position: absolute;
+  width: 240px;
+  height: 60px;
+  top: 54px;
+  left: 840px;
+  font-family: var(--www-apple-com-helvetica-neue-bold-51-73-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-bold-51-73-font-weight);
+  color: var(--wwwapplecomshark);
+  font-size: var(--www-apple-com-helvetica-neue-bold-51-73-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-bold-51-73-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-bold-51-73-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-bold-51-73-font-style);
+}
+
+.https-www-apple-com .text-wrapper {
+  position: absolute;
+  width: 444px;
+  height: 31px;
+  top: 120px;
+  left: 738px;
+  font-family: var(--www-apple-com-helvetica-neue-regular-25-7-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-25-7-font-weight);
+  color: var(--wwwapplecomshark);
+  font-size: var(--www-apple-com-helvetica-neue-regular-25-7-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-25-7-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-25-7-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-25-7-font-style);
+}
+
+.https-www-apple-com .div-cta-links {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 39.55px;
+  padding: 2px 0px 4px;
+  position: absolute;
+  top: 166px;
+  left: 855px;
+}
+
+.https-www-apple-com .link-learn-more {
+  position: relative;
+  width: 116.7px;
+  height: 25px;
+}
+
+.https-www-apple-com .overlap-group {
+  width: 117px;
+  position: relative;
+  height: 32px;
+  top: -3px;
+}
+
+.https-www-apple-com .text-wrapper-2 {
+  width: 101px;
+  height: 29px;
+  color: var(--wwwapplecomscience-blue);
+  font-size: var(--www-apple-com-helvetica-neue-regular-19-36-font-size);
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-19-36-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-19-36-line-height);
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-19-36-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-19-36-font-weight);
+  text-align: center;
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-19-36-font-style);
+}
+
+.https-www-apple-com .after {
+  position: absolute;
+  width: 16px;
+  height: 29px;
+  top: 3px;
+  left: 101px;
+}
+
+.https-www-apple-com .link-buy-iphone {
+  position: relative;
+  width: 50.48px;
+  height: 25px;
+}
+
+.https-www-apple-com .overlap {
+  width: 50px;
+  position: relative;
+  height: 32px;
+  top: -3px;
+}
+
+.https-www-apple-com .text-wrapper-3 {
+  position: absolute;
+  width: 35px;
+  height: 29px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-19-69-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-19-69-font-weight);
+  color: var(--wwwapplecomscience-blue);
+  font-size: var(--www-apple-com-helvetica-neue-regular-19-69-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-19-69-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-19-69-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-19-69-font-style);
+}
+
+.https-www-apple-com .img {
+  position: absolute;
+  width: 16px;
+  height: 29px;
+  top: 3px;
+  left: 35px;
+}
+
+.https-www-apple-com .div-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 692px;
+  top: 660px;
+  left: 0;
+}
+
+.https-www-apple-com .div-unit-wrapper-2 {
+  height: 736px;
+  padding: 44px 0px 495.36px;
+  background-color: var(--wwwapplecomblack);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .div-unit-image-2 {
+  background-image: url(./img/figure-1.png);
+  position: absolute;
+  width: 1920px;
+  height: 736px;
+  top: 0;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.https-www-apple-com .heading-iphone-2 {
+  position: absolute;
+  width: 334px;
+  height: 60px;
+  top: 54px;
+  left: 793px;
+  font-family: var(--www-apple-com-helvetica-neue-bold-50-86-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-bold-50-86-font-weight);
+  color: var(--wwwapplecomathens-gray);
+  font-size: var(--www-apple-com-helvetica-neue-bold-50-86-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-bold-50-86-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-bold-50-86-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-bold-50-86-font-style);
+}
+
+.https-www-apple-com .p {
+  position: absolute;
+  width: 418px;
+  height: 31px;
+  top: 120px;
+  left: 751px;
+  font-family: var(--www-apple-com-helvetica-neue-regular-24-94-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-24-94-font-weight);
+  color: var(--wwwapplecomathens-gray);
+  font-size: var(--www-apple-com-helvetica-neue-regular-24-94-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-24-94-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-24-94-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-24-94-font-style);
+}
+
+.https-www-apple-com .text-wrapper-4 {
+  width: 101px;
+  height: 29px;
+  color: var(--wwwapplecomjapanese-laurel);
+  font-size: var(--www-apple-com-helvetica-neue-regular-19-36-font-size);
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-19-36-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-19-36-line-height);
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-19-36-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-19-36-font-weight);
+  text-align: center;
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-19-36-font-style);
+}
+
+.https-www-apple-com .text-wrapper-5 {
+  width: 35px;
+  height: 29px;
+  font-size: var(--www-apple-com-helvetica-neue-regular-19-69-font-size);
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-19-69-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-19-69-line-height);
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-19-69-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-19-69-font-weight);
+  color: var(--wwwapplecomjapanese-laurel);
+  text-align: center;
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-19-69-font-style);
+}
+
+.https-www-apple-com .div-margin-2 {
+  position: absolute;
+  width: 1920px;
+  height: 692px;
+  top: -44px;
+  left: 0;
+}
+
+.https-www-apple-com .div-unit-wrapper-3 {
+  height: 736px;
+  justify-content: center;
+  padding: 44px 0px 0px;
+  background-color: var(--wwwapplecomnero);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .div-unit-image-3 {
+  background-image: url(./img/figure-2.png);
+  position: absolute;
+  width: 1920px;
+  height: 736px;
+  top: 0;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.https-www-apple-com .div-unit-copy-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 55px 831px 50px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .div-split-wrapper {
+  align-items: center;
+  padding: 5px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading {
+  position: relative;
+  width: 223px;
+  height: 54px;
+}
+
+.https-www-apple-com .div-split-wrapper-2 {
+  align-items: flex-start;
+  gap: 25px;
+  padding: 11.19px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .presentation-subhead {
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 258px;
+  align-items: center;
+  padding: 0px 13.81px 0.5px 13.8px;
+  position: relative;
+  flex: 0 0 auto;
+  z-index: 1;
+}
+
+.https-www-apple-com .don-t-miss-a-minute {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomshark);
+  font-size: 25.6px;
+  text-align: center;
+  letter-spacing: 0.11px;
+  line-height: 31px;
+}
+
+.https-www-apple-com .link-subscribe-now-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 50.42px;
+  position: relative;
+  flex: 0 0 auto;
+  z-index: 0;
+}
+
+.https-www-apple-com .link-subscribe-now {
+  display: inline-flex;
+  min-width: 28px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwapplecomshark);
+  border-radius: 980px;
+}
+
+.https-www-apple-com .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomnero);
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: -0.37px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .section-2 {
+  position: relative;
+  width: 1896px;
+  height: 1776px;
+  z-index: 1;
+  background-color: var(--wwwapplecomnero);
+  border-bottom-width: 12px;
+  border-bottom-style: solid;
+  border-color: var(--wwwapplecomnero);
+}
+
+.https-www-apple-com .div-margin-3 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 1140px;
+  left: 954px;
+}
+
+.https-www-apple-com .div-module-content-wrapper {
+  width: 942px;
+  height: 636px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 12px;
+  position: relative;
+  background-color: var(--wwwapplecomnero);
+}
+
+.https-www-apple-com .div-module-content-2 {
+  display: flex;
+  flex-direction: column;
+  height: 624px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: var(--wwwapplecomwhite-lilac);
+}
+
+.https-www-apple-com .div-unit-wrapper-4 {
+  display: flex;
+  flex-direction: column;
+  height: 624px;
+  align-items: flex-start;
+  padding: 44px 0px 394.11px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: var(--wwwapplecomwhite-lilac);
+}
+
+.https-www-apple-com .figure-wrapper {
+  position: absolute;
+  width: 942px;
+  height: 624px;
+  top: 0;
+  left: 0;
+}
+
+.https-www-apple-com .figure {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 44px;
+  left: 0;
+}
+
+.https-www-apple-com .div-unit-copy-3 {
+  height: 185.89px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .heading-2 {
+  position: absolute;
+  width: 430px;
+  height: 32px;
+  top: 58px;
+  left: 256px;
+}
+
+.https-www-apple-com .presentation-subhead-2 {
+  width: 315px;
+  height: 52px;
+  left: 314px;
+  position: absolute;
+  top: 100px;
+}
+
+.https-www-apple-com .text-wrapper-7 {
+  position: absolute;
+  width: 278px;
+  height: 26px;
+  top: -2px;
+  left: 18px;
+  font-family: var(--www-apple-com-helvetica-neue-regular-20-18-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-20-18-font-weight);
+  color: var(--wwwapplecomshark);
+  font-size: var(--www-apple-com-helvetica-neue-regular-20-18-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-20-18-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-20-18-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-20-18-font-style);
+}
+
+.https-www-apple-com .overlap-group-2 {
+  position: absolute;
+  width: 292px;
+  height: 26px;
+  top: 24px;
+  left: 12px;
+}
+
+.https-www-apple-com .text-wrapper-8 {
+  position: absolute;
+  width: 286px;
+  height: 26px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-19-03-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-19-03-font-weight);
+  color: var(--wwwapplecomshark);
+  font-size: var(--www-apple-com-helvetica-neue-regular-19-03-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-19-03-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-19-03-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-19-03-font-style);
+}
+
+.https-www-apple-com .superscript-link {
+  position: absolute;
+  width: 6px;
+  height: 16px;
+  top: 2px;
+  left: 286px;
+  font-family: var(--www-apple-com-helvetica-neue-regular-12-6-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-12-6-font-weight);
+  color: var(--wwwapplecomshark);
+  font-size: var(--www-apple-com-helvetica-neue-regular-12-6-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-12-6-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-12-6-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-12-6-font-style);
+}
+
+.https-www-apple-com .link-see-what-your-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  align-items: center;
+  padding: 0px 350.48px 2px 350.47px;
+  position: absolute;
+  top: 164px;
+  left: 0;
+}
+
+.https-www-apple-com .link-see-what-your {
+  position: relative;
+  width: 241.05px;
+  height: 20px;
+}
+
+.https-www-apple-com .overlap-group-3 {
+  position: relative;
+  width: 241px;
+  height: 24px;
+  top: -2px;
+}
+
+.https-www-apple-com .text-wrapper-9 {
+  position: absolute;
+  width: 229px;
+  height: 21px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-17-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-17-font-weight);
+  color: var(--wwwapplecomscience-blue);
+  font-size: var(--www-apple-com-helvetica-neue-regular-17-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-17-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-17-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-17-font-style);
+}
+
+.https-www-apple-com .after-2 {
+  position: absolute;
+  width: 12px;
+  height: 21px;
+  top: 2px;
+  left: 229px;
+}
+
+.https-www-apple-com .div-margin-4 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 1140px;
+  left: 0;
+}
+
+.https-www-apple-com .heading-3 {
+  position: absolute;
+  width: 430px;
+  height: 33px;
+  top: 58px;
+  left: 256px;
+}
+
+.https-www-apple-com .get-up-to-daily-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 290px;
+  width: 290px;
+  align-items: center;
+  padding: 0px 10.56px 0.5px;
+  left: 326px;
+  position: absolute;
+  top: 100px;
+}
+
+.https-www-apple-com .get-up-to-daily {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomshark);
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 26px;
+}
+
+.https-www-apple-com .div-cta-links-2 {
+  display: flex;
+  width: 942px;
+  align-items: flex-start;
+  gap: 32.42px;
+  padding: 0px 360.72px 2px 357.72px;
+  position: absolute;
+  top: 164px;
+  left: 0;
+}
+
+.https-www-apple-com .overlap-group-wrapper {
+  position: relative;
+  width: 98.95px;
+  height: 20px;
+}
+
+.https-www-apple-com .overlap-group-4 {
+  position: relative;
+  width: 99px;
+  height: 24px;
+  top: -2px;
+}
+
+.https-www-apple-com .text-wrapper-10 {
+  position: absolute;
+  width: 87px;
+  height: 21px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-17-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-17-font-weight);
+  color: var(--wwwapplecomscience-blue);
+  font-size: var(--www-apple-com-helvetica-neue-regular-17-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-17-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-17-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-17-font-style);
+}
+
+.https-www-apple-com .after-3 {
+  position: absolute;
+  width: 12px;
+  height: 21px;
+  top: 2px;
+  left: 87px;
+}
+
+.https-www-apple-com .link-apply-now-for {
+  position: relative;
+  width: 92.19px;
+  height: 20px;
+}
+
+.https-www-apple-com .overlap-2 {
+  width: 92px;
+  position: relative;
+  height: 24px;
+  top: -2px;
+}
+
+.https-www-apple-com .text-wrapper-11 {
+  position: absolute;
+  width: 80px;
+  height: 21px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-17-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-17-font-weight);
+  color: var(--wwwapplecomscience-blue);
+  font-size: var(--www-apple-com-helvetica-neue-regular-17-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-17-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-17-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-17-font-style);
+}
+
+.https-www-apple-com .after-4 {
+  position: absolute;
+  width: 12px;
+  height: 21px;
+  top: 2px;
+  left: 80px;
+}
+
+.https-www-apple-com .div-margin-5 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 548px;
+  left: 954px;
+}
+
+.https-www-apple-com .div-unit-wrapper-5 {
+  height: 624px;
+  padding: 44px 0px 419.11px;
+  background-color: var(--wwwapplecomwhite-lilac);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .div-unit-copy-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 53px 0px 1.14e-13px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .heading-ipad {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--wwwapplecomshark);
+  font-size: 36.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomshark);
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .div-cta-links-3 {
+  display: flex;
+  align-items: flex-start;
+  gap: 32.43px;
+  padding: 0px 386.09px 2px 383.09px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .overlap-wrapper {
+  position: relative;
+  width: 41.44px;
+  height: 20px;
+}
+
+.https-www-apple-com .overlap-3 {
+  width: 41px;
+  position: relative;
+  height: 24px;
+  top: -2px;
+}
+
+.https-www-apple-com .text-wrapper-13 {
+  position: absolute;
+  width: 29px;
+  height: 21px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-17-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-17-font-weight);
+  color: var(--wwwapplecomscience-blue);
+  font-size: var(--www-apple-com-helvetica-neue-regular-17-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-17-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-17-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-17-font-style);
+}
+
+.https-www-apple-com .after-5 {
+  position: absolute;
+  width: 12px;
+  height: 21px;
+  top: 2px;
+  left: 29px;
+}
+
+.https-www-apple-com .div-margin-6 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 548px;
+  left: 0;
+}
+
+.https-www-apple-com .heading-macbook {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--wwwapplecomshark);
+  font-size: 35.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomshark);
+  font-size: 19.7px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .div-margin-7 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: -44px;
+  left: 954px;
+}
+
+.https-www-apple-com .div-unit-wrapper-6 {
+  height: 624px;
+  padding: 44px 0px 399.11px;
+  background-color: var(--wwwapplecomblack);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .div-unit-copy-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px;
+  padding: 59px 0px 1.14e-13px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .heading-4 {
+  position: relative;
+  max-width: 430px;
+  width: 430px;
+  height: 53px;
+}
+
+.https-www-apple-com .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomathens-gray);
+  font-size: 19.4px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .text-wrapper-16 {
+  width: 87px;
+  height: 21px;
+  color: var(--wwwapplecomjapanese-laurel);
+  font-size: var(--www-apple-com-helvetica-neue-regular-17-font-size);
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-17-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-17-line-height);
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-17-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-17-font-weight);
+  text-align: center;
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-17-font-style);
+}
+
+.https-www-apple-com .text-wrapper-17 {
+  width: 29px;
+  height: 21px;
+  font-size: var(--www-apple-com-helvetica-neue-regular-17-font-size);
+  letter-spacing: var(--www-apple-com-helvetica-neue-regular-17-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-regular-17-line-height);
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-regular-17-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-regular-17-font-weight);
+  color: var(--wwwapplecomjapanese-laurel);
+  text-align: center;
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-regular-17-font-style);
+}
+
+.https-www-apple-com .div-margin-8 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: -44px;
+  left: 0;
+}
+
+.https-www-apple-com .div-unit-wrapper-7 {
+  height: 624px;
+  justify-content: center;
+  padding: 44px 0px 0px;
+  background-color: var(--wwwapplecomwhite-lilac);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .div-unit-copy-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 372.11px 0px 54px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.https-www-apple-com .heading-margin {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  height: 94px;
+  align-items: center;
+  justify-content: center;
+  padding: 53px 256px 0px;
+  position: relative;
+  margin-top: -0.01px;
+}
+
+.https-www-apple-com .heading-5 {
+  position: relative;
+  max-width: 430px;
+  width: 430px;
+  height: 41px;
+}
+
+.https-www-apple-com .presentation-subhead-3 {
+  display: flex;
+  flex-direction: column;
+  width: 942px;
+  align-items: center;
+  padding: 0px 286.62px 0px 286.61px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -0.11px;
+  margin-right: -0.11px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomshark);
+  font-size: 19.4px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .div-cta-links-margin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 11.9px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .group-tv-plus-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 0;
+}
+
+.https-www-apple-com .group-tv-plus {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 705.25px;
+  align-items: center;
+  padding: 0px 327.5px 705.25px;
+  position: relative;
+  background-color: var(--wwwapplecomnero);
+}
+
+.https-www-apple-com .div-item-container {
+  position: relative;
+  width: 1265px;
+  height: 1px;
+  margin-bottom: -1px;
+}
+
+.https-www-apple-com .tabpanel {
+  display: flex;
+  width: 1265px;
+  height: 667px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 7.5px;
+  position: absolute;
+  top: 0;
+  left: 1265px;
+  background-color: var(--wwwapplecomnero);
+}
+
+.https-www-apple-com .div-inner {
+  position: absolute;
+  width: 1250px;
+  height: 667px;
+  top: 0;
+  left: 8px;
+}
+
+.https-www-apple-com .div-info-bottom {
+  display: flex;
+  width: 972px;
+  align-items: center;
+  padding: 0px 245.78px 0px 0px;
+  position: relative;
+  top: 593px;
+  left: 68px;
+  opacity: 0;
+}
+
+.https-www-apple-com .overlap-group-wrapper-2 {
+  position: relative;
+  width: 146.17px;
+  height: 44px;
+  background-color: var(--wwwapplecomnero);
+  border-radius: 980px;
+}
+
+.https-www-apple-com .overlap-group-5 {
+  position: relative;
+  width: 107px;
+  height: 20px;
+  top: 11px;
+  left: 22px;
+}
+
+.https-www-apple-com .text-wrapper-19 {
+  position: absolute;
+  width: 81px;
+  height: 20px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-apple-com-helvetica-neue-bold-14-font-family);
+  font-weight: var(--www-apple-com-helvetica-neue-bold-14-font-weight);
+  color: var(--wwwapplecomshark);
+  font-size: var(--www-apple-com-helvetica-neue-bold-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-apple-com-helvetica-neue-bold-14-letter-spacing);
+  line-height: var(--www-apple-com-helvetica-neue-bold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-apple-com-helvetica-neue-bold-14-font-style);
+}
+
+.https-www-apple-com .after-6 {
+  position: absolute;
+  width: 26px;
+  height: 15px;
+  top: 5px;
+  left: 81px;
+}
+
+.https-www-apple-com .p-typography-shows {
+  padding: 0px 0px 0px 40px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .drama-wrapper {
+  padding: 0px 470.91px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .drama {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 0px 0px 5px #00000099;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomnero);
+  font-size: 16.2px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .span {
+  font-weight: 700;
+}
+
+.https-www-apple-com .text-wrapper-20 {
+  font-family: "Helvetica Neue-Regular", Helvetica;
+}
+
+.https-www-apple-com .link-2 {
+  position: relative;
+  width: 320px;
+  height: 667.25px;
+}
+
+.https-www-apple-com .link-wrapper {
+  left: -1265px;
+  display: flex;
+  width: 1265px;
+  height: 667px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 7.5px;
+  position: absolute;
+  top: 0;
+  background-color: var(--wwwapplecomnero);
+}
+
+.https-www-apple-com .tabpanel-2 {
+  left: 0;
+  display: flex;
+  width: 1265px;
+  height: 667px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 7.5px;
+  position: absolute;
+  top: 0;
+  background-color: var(--wwwapplecomnero);
+}
+
+.https-www-apple-com .div-info-bottom-2 {
+  display: flex;
+  width: 972px;
+  align-items: center;
+  padding: 0px 511.91px 0px 0px;
+  position: relative;
+  top: 573px;
+  left: 68px;
+  opacity: 1;
+}
+
+.https-www-apple-com .overlap-group-6 {
+  position: relative;
+  width: 102px;
+  height: 20px;
+  top: 11px;
+  left: 22px;
+}
+
+.https-www-apple-com .after-7 {
+  position: absolute;
+  width: 21px;
+  height: 14px;
+  top: 5px;
+  left: 81px;
+}
+
+.https-www-apple-com .p-typography-shows-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0px 40px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -2.84e-14px;
+}
+
+.https-www-apple-com .mystery-reality-is-a-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .mystery-reality-is-a {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 0px 0px 5px #00000099;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomnero);
+  font-size: 15.3px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .link-3 {
+  position: relative;
+  width: 1250px;
+  height: 667.25px;
+}
+
+.https-www-apple-com .div-tablist-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+  align-items: flex-start;
+  position: absolute;
+  top: 673px;
+  left: 850px;
+}
+
+.https-www-apple-com .div-dotnav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0px 7px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .tablist {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-wrapper-2 {
+  display: flex;
+  flex-direction: column;
+  width: 22px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 7px;
+  position: relative;
+  align-self: stretch;
+}
+
+.https-www-apple-com .div-wrapper-3 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 8px;
+}
+
+.https-www-apple-com .tab-item {
+  width: 8px;
+  height: 8px;
+  background-color: var(--wwwapplecomblack-80);
+  border-radius: 4px;
+}
+
+.https-www-apple-com .div-2 {
+  width: 8px;
+  height: 8px;
+  background-color: var(--wwwapplecomblack-42);
+  border-radius: 4px;
+}
+
+.https-www-apple-com .button-play-apple-TV {
+  position: absolute;
+  width: 30px;
+  height: 38px;
+  top: 667px;
+  left: 1860px;
+}
+
+.https-www-apple-com .footer {
+  display: flex;
+  flex-direction: column;
+  min-width: 1024px;
+  align-items: center;
+  padding: 0px 448px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwapplecomathens-gray);
+}
+
+.https-www-apple-com .div-ac-gf-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 980px;
+  width: 980px;
+  align-items: flex-start;
+  padding: 0px 22px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .section-footnotes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 17px 0px 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwapplecomblack-16);
+}
+
+.https-www-apple-com .list {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 9.6px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  align-items: flex-start;
+  position: relative;
+}
+
+.https-www-apple-com .item {
+  padding: 0px 0.27px 9.6px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .element-trade-in-values {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-56);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.https-www-apple-com .item-2 {
+  padding: 0px 748.84px 9.6px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -35.84px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-56);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .available-in-the-u-s-wrapper {
+  padding: 0px 543.8px 9.6px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .available-in-the-u-s {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -25.8px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .text-wrapper-22 {
+  color: #0000008f;
+  letter-spacing: -0.01px;
+}
+
+.https-www-apple-com .text-wrapper-23 {
+  color: #000000b8;
+  letter-spacing: -0.01px;
+  text-decoration: underline;
+}
+
+.https-www-apple-com .to-access-and-use-wrapper {
+  padding: 0px 20.19px 9.6px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .to-access-and-use {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -1.19px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-56);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.https-www-apple-com .item-3 {
+  padding: 0px 351.66px 9.6px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .text-wrapper-24 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -9.66px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-56);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .learn-more-about-how-wrapper {
+  padding: 0px 439.45px 9.6px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .learn-more-about-how {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -20.45px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .item-4 {
+  padding: 0px 755.67px 9.6px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .text-wrapper-25 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -32.67px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-56);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .navigation-apple {
+  display: flex;
+  align-items: flex-start;
+  padding: 20px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 2.84e-13px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-2 {
+  display: flex;
+  gap: 9.59px;
+  padding: 0px 20px 0px 0px;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 86.03px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .text-wrapper-26 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--wwwapplecomblack-88);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .list-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.6px;
+  padding: 0px 0px 3.98e-13px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .text-wrapper-27 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-72);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .text-wrapper-28 {
+  position: relative;
+  width: fit-content;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-72);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .listitem {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 119.94px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-3 {
+  gap: 9.6px;
+  padding: 24px 20px 0px 0px;
+  margin-top: -2.27e-13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-7 {
+  padding: 0px 103.37px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .list-3 {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 9.6px;
+  padding: 0px 0px 2.56e-13px;
+  flex: 0 0 auto;
+  align-items: flex-start;
+  position: relative;
+}
+
+.https-www-apple-com .link-apple-cash-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 112.64px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-4 {
+  display: inline-flex;
+  padding: 0px 0px 76.79px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-8 {
+  padding: 0px 128.08px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .link-icloud-com-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 113.56px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-5 {
+  gap: 9.6px;
+  padding: 24px 20px 0px 0px;
+  margin-top: -2.56e-13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-9 {
+  padding: 0px 93.69px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .list-4 {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 9.6px;
+  flex: 0 0 auto;
+  align-items: flex-start;
+  position: relative;
+}
+
+.https-www-apple-com .link-app-store-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 120.7px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-wrapper {
+  display: inline-flex;
+  padding: 0px 0px 142.38px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-10 {
+  padding: 0px 108.11px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .link-shopping-help-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 94.33px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-6 {
+  display: inline-flex;
+  padding: 0px 0px 47.97px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-7 {
+  gap: 9.59px;
+  padding: 0px 20px 0.01px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-11 {
+  padding: 0px 101.98px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .link-shop-for-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 75.98px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-8 {
+  gap: 9.59px;
+  padding: 24px 20px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-12 {
+  padding: 0px 96.17px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .listitem-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 83.53px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-13 {
+  padding: 0px 90.69px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .link-health-records-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 32.84px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-14 {
+  padding: 0px 82.89px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .listitem-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 8.7px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-9 {
+  display: inline-flex;
+  padding: 0px 0px 25.59px;
+  margin-right: -39.57px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-15 {
+  padding: 0px 101px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .link-supplier-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 49.98px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .div-ac-gf-directory-10 {
+  gap: 9.59px;
+  padding: 24px 20px 0px 0px;
+  margin-top: -1.42e-13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .heading-16 {
+  padding: 0px 104.37px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .link-contact-apple-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 96.7px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .section-3 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 126px;
+}
+
+.https-www-apple-com .div-ac-gf-footer {
+  flex-direction: column;
+  width: 936px;
+  max-height: 9999px;
+  align-items: flex-start;
+  padding: 0px 472.89px 20px 0px;
+  top: 37px;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwapplecomblack-16);
+  display: flex;
+  position: absolute;
+}
+
+.https-www-apple-com .more-ways-to-shop {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -19.89px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .text-wrapper-29 {
+  color: #0066cc;
+  letter-spacing: -0.01px;
+  text-decoration: underline;
+}
+
+.https-www-apple-com .overlap-group-7 {
+  position: absolute;
+  width: 936px;
+  height: 26px;
+  top: 86px;
+  left: 0;
+}
+
+.https-www-apple-com .div-ac-gf-footer-2 {
+  width: 936px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 30px;
+  padding: 0px 264.21px 5px 0px;
+  top: 0;
+  left: 0;
+  display: flex;
+  position: absolute;
+}
+
+.https-www-apple-com .div-ac-gf-footer-3 {
+  display: flex;
+  flex-direction: column;
+  width: 266.52px;
+  max-height: 9999px;
+  align-items: flex-start;
+  position: relative;
+  margin-left: -22px;
+}
+
+.https-www-apple-com .text-wrapper-30 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-56);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .list-5 {
+  display: flex;
+  width: 419.27px;
+  gap: 9.3px;
+  padding: 5px 15.01px 0px 0px;
+  margin-right: -22px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.https-www-apple-com .listitem-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 0px 9px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .after-8 {
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  left: 86px;
+  background-color: var(--wwwapplecomblack-48);
+}
+
+.https-www-apple-com .after-9 {
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  left: 82px;
+  background-color: var(--wwwapplecomblack-48);
+}
+
+.https-www-apple-com .after-10 {
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  left: 112px;
+  background-color: var(--wwwapplecomblack-48);
+}
+
+.https-www-apple-com .after-11 {
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  left: 39px;
+  background-color: var(--wwwapplecomblack-48);
+}
+
+.https-www-apple-com .link-united-states-wrapper {
+  flex-direction: column;
+  width: 31px;
+  align-items: flex-start;
+  top: 5px;
+  left: 905px;
+  display: flex;
+  position: absolute;
+}
+
+.https-www-apple-com .link-united-states {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -40.83px;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--wwwapplecomblack-72);
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.https-www-apple-com .nav-global {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  max-height: 44px;
+  height: 44px;
+  align-items: center;
+  padding: 0px 448px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--wwwapplecomwoodsmoke-80);
+  backdrop-filter: blur(20px) brightness(100%);
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+}
+
+.https-www-apple-com .div-globalnav {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  width: 1024px;
+  align-items: flex-start;
+  padding: 0px 14px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .list-6 {
+  display: flex;
+  height: 44px;
+  justify-content: space-between;
+  padding: 0px 0.17px 0px 0px;
+  align-self: stretch;
+  width: 100%;
+  align-items: flex-start;
+  position: relative;
+}
+
+.https-www-apple-com .img-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.https-www-apple-com .img-2 {
+  position: relative;
+  align-self: stretch;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-store {
+  width: 46px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-mac {
+  width: 39px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-ipad {
+  width: 40px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link {
+  width: 54px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-watch {
+  width: 51px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-2 {
+  width: 50px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-3 {
+  position: relative;
+  width: 59px;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-TV {
+  position: relative;
+  width: 81px;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-4 {
+  width: 93px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-5 {
+  width: 83px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+
+.https-www-apple-com .item-list-link-6 {
+  width: 60px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
